@@ -145,3 +145,37 @@
     font-size: 22px;
     line-height: 35px;
 }
+
+.section-3{
+    background-color: #EDEDED;
+}
+
+.text-5{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 90px 60px;
+}
+
+.text-5 video{
+    width: 700px;
+    border: none;
+    border-radius: 10px;
+}
+
+.text-6 img{
+    width: 170px;
+    padding-bottom: 30px;
+}
+
+.text-6 p{
+    font-size: 28px;
+    color: #210F60;
+    padding-bottom: 10px;
+}
+
+.text-6 p a{
+    color: #1DCF9F;
+    text-decoration: none;
+}
+
