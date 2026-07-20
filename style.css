@@ -250,3 +250,40 @@
     color: white;
     line-height: 30px;
 }
+
+.section-6{
+    background-color: #F8FBFF;
+}
+
+.text-11{
+    display: flex;
+    padding: 40px 60px;
+}
+
+.text-13 video{
+    width: 400px;
+    /* height: 300px; */
+}
+
+.text-12 h2{
+    color: #210F60;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 70px;
+    padding-top: 30px;
+}
+
+.text-12 p{
+    color: #261464;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.text-14 p img{
+    width: 13px;
+}
+
+.text-14 p{
+    font-size: 14px;
+}
